@@ -3,6 +3,8 @@ with Ubuntu 20.04 LTS, git, and node (via nvm). See provision.sh.
 
 NOTE: `.gitconfig` and `ssh` keys are synced from  host to guest.
 
+Developed on an M1 Macbook Pro.
+
 ## Pre-reqs
 
 Install:
