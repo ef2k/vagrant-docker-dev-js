@@ -1,7 +1,7 @@
 This configuration runs docker as provider for vagrant. The environment is setup
 with Ubuntu 20.04 LTS, git, and node (via nvm). See provision.sh.
 
-`gitconfig` and `ssh` keys are synced from the host to the guest.
+NOTE: `.gitconfig` and `ssh` keys are synced from  host to guest.
 
 ## Pre-reqs
 
